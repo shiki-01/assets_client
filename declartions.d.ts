@@ -1,0 +1,1 @@
+declare module '@digital-go-jp/tailwind-theme-plugin';
